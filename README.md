@@ -1,6 +1,6 @@
 <h1>Primeiro projeto responsivo com HTML e CSS</h1>
 <br/>
-<h2 align="center" width=">WE CARE</h2>
+<h2 align="center">WE CARE</h2>
 <br/>
 <br/>
 <p align="center">
